@@ -16,15 +16,15 @@
 
 | 항목 | 확인 명령 또는 방법 | 결과 |
 |---|---|---|
-| 강의자 Notion 페이지 | 브라우저 접속 | 성공 / 실패 |
-| GitHub 로그인 | 브라우저 접속 | 성공 / 실패 |
-| Git | git --version | 성공 / 실패 |
-| VS Code | code --version 또는 직접 실행 | 성공 / 실패 |
-| Python | python --version / python3 --version / py --version | 성공 / 실패 |
-| Node.js | node --version | 성공 / 실패 / 미설치 |
-| npm | npm --version | 성공 / 실패 / 미설치 |
-| 로컬 실습 폴더 | AWS-DCO-GenAI-Portfolio 생성 | 성공 / 실패 |
-| GitHub 저장소 | AWS-DCO-GenAI-Portfolio 생성 또는 준비 | 성공 / 실패 |
+| 강의자 Notion 페이지 | 브라우저 접속 | 성공 |
+| GitHub 로그인 | 브라우저 접속 | 성공 |
+| Git | git --version | 성공 |
+| VS Code | code --version 또는 직접 실행 | 성공 |
+| Python | python --version / python3 --version / py --version | 성공 |
+| Node.js | node --version | 성공 |
+| npm | npm --version | 성공 |
+| 로컬 실습 폴더 | AWS-DCO-GenAI-Portfolio 생성 | 성공 |
+| GitHub 저장소 | AWS-DCO-GenAI-Portfolio 생성 또는 준비 | 성공 |
 
 ---
 
